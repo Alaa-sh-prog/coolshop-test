@@ -29,7 +29,7 @@ export const Adder = () => {
           </div>
         );
       })}
-      <hr className="text-light mt-5" />
+      <hr className="text-secondary mt-5" />
       <h2 className="text-light mt-4">Result</h2>
       {result}
     </div>
